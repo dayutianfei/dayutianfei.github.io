@@ -3,6 +3,7 @@ layout: post
 title: 纪念一下已经离我而去的小二黑
 date: 2015-12-24
 comments: false
+tags: daily
 archive: false
 ---
 首先第一句：值此佳节，小心防盗！
