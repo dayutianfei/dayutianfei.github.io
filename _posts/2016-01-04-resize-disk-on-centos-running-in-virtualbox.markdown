@@ -18,7 +18,7 @@ archive: false
 
 > 将逻辑卷加入到vg_q组中 ： ``vgextend vg_q /dev/sdc1``
 
-> 把新磁盘打所有空间投射到改组 ： ``lvresize -l +100%FREE /dev/mapper/vg_q-lv_root``
+> 把所有空间投射到组中：``lvresize -l +100%FREE /dev/mapper/vg_q-lv_root``
 
 > 重新做一下系统 ： ``resize2fs /dev/mapper/vg_q-lv_root``
 
