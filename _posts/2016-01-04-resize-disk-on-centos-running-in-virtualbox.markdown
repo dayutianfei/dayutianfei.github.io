@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 增加运行在虚拟机中打CentOS的磁盘空间 
+title: 增加运行在虚拟机中CentOS的磁盘空间 
 date: 2016-01-04
 comments: false
 tags: os
@@ -8,7 +8,7 @@ archive: false
 ---
 最近，运行在VirtualBox中的CentOS在编译kudu代码时，报无可用空间错误，之前分派的40G硬盘空间不够用了，于是就需要增大其磁盘空间。
 
-虚拟机中安装的CentOS采用LVM进行磁盘管理，所以我在虚拟机中增加一块盘片，挂载到系统中；
+虚拟机中安装的CentOS采用LVM进行磁盘管理，所以我在虚拟机中增加一块盘片，挂载到系统中，然后执行后续的操作：
 
 > 对磁盘进行分区 ： ``fdisk /dev/sdc``
 
