@@ -2,6 +2,7 @@
 layout: post
 title: Say sth ...
 date: 2016-08-31
+tags: daily
 comments: true
 archive: false
 ---
