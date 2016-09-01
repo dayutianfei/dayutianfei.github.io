@@ -1,0 +1,9 @@
+---
+layout: post
+title: Say sth ...
+date: 2016-08-31
+tags: daily
+comments: true
+archive: false
+---
+Long time no say了，8月的最后一天，随便写点，mark一下这半年多来浑浑噩噩的时光；9月是开学季，希望有所收获......
