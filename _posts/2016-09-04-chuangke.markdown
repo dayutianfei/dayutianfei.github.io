@@ -1,0 +1,11 @@
+---
+layout: post
+title: 创客文化
+date: 2016-09-04
+tags: daily
+comments: true
+archive: false
+---
+看到一个说创客的节目，里面有一句话比较喜欢：技术没有任何提高，但是我的认识不同了。说这个话的人是一个完全不懂编程的人，但是因为要做一个泡泡墙，需要做硬件，需要编代码。
+
+Just do it!
