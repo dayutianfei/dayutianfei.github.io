@@ -1,0 +1,9 @@
+---
+layout: post
+title: 冒泡
+date: 2016-10-30
+tags: daily
+comments: true
+archive: false
+---
+冒个泡，刷刷存在感
